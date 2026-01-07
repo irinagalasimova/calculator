@@ -24,7 +24,7 @@ body {
    margin-bottom: 20px;
 }
 
-#result {
+#display {
    width: 100%;
    height: 80px;
    background: #34495e;
